@@ -1,0 +1,3 @@
+
+            str : string =  e + h * g - k;
+        

@@ -1,0 +1,1 @@
+ARRAY,[,2,,,4,],OF,BOOLEAN,<EOF>

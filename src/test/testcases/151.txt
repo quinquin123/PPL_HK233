@@ -1,0 +1,9 @@
+
+            id : auto = a + b * c;
+            id : auto = d / e - f;
+            id : auto = g % h + i;
+            id : auto = j && k || l;
+            id : auto = m > n;
+            id : auto = o < p;
+            id : auto = id[2,3] + id[2];
+        

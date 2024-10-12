@@ -1,0 +1,6 @@
+
+            foo : function void (x : integer, y : float)
+            {
+                if x > y then return x; else return y;
+            }
+        

@@ -1,0 +1,3 @@
+
+            flag : boolean = true and false;
+        

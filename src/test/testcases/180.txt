@@ -1,0 +1,7 @@
+
+            fo4 : function integer ()
+            {
+                a1 = 12 + 15;
+                a2 = 22
+            }
+        

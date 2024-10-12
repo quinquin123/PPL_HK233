@@ -1,0 +1,3 @@
+
+            fo8 : function for (inherit out id : auto) {}
+        

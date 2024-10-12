@@ -1,0 +1,6 @@
+
+            id : auto = x == y;
+            id : auto = m :: n;
+            id : auto = x && b || c ;
+            id : auto = x + y - z;
+        

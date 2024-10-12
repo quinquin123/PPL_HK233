@@ -1,0 +1,6 @@
+
+           x, m : integer; 
+            b : string;
+            e : boolean;
+            a : integer
+        

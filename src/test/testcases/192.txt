@@ -1,0 +1,15 @@
+
+            foo : function void ()
+            {
+                do 
+                {
+                    do 
+                    {
+                        break; 
+                    }
+                    while(j < 5);
+                    break;
+                }
+                while(i < 10);
+            }
+        

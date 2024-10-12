@@ -1,0 +1,9 @@
+
+            fo4 : function string ()
+            {
+                for (i = 0, i < 10, i = i + 1)
+                    x : x + i;
+                continue;
+                break;
+            }
+        

@@ -1,0 +1,3 @@
+
+            fo6 : function if (inherit out id : auto) {}
+        

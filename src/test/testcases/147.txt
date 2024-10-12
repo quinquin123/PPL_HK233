@@ -1,0 +1,5 @@
+
+            id : auto = a[1,2,4];
+            id : auto = id[2,3] + id[2];
+            id : auto = 1 + 2.7 - "32" + true - true + false - {1} + {1,2,3};
+        

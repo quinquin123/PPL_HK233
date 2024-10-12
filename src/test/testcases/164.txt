@@ -1,0 +1,4 @@
+
+            id : string = (p :: q) + r :: s;
+            id : string = p :: q + r :: s;
+        

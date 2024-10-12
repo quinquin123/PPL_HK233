@@ -1,0 +1,4 @@
+
+            a5 : integer = !! -- b;
+            a9 : string = -- !! b;
+        

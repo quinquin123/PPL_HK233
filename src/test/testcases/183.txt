@@ -1,0 +1,9 @@
+
+            foo5 : function auto ()
+            {
+                if (x <= y)
+                    if (x != y) x = y;
+                    else x = 0;
+                else x = 1;
+            }
+        

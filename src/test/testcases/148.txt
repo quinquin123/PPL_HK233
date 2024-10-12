@@ -1,0 +1,7 @@
+
+            id : integer = a >= b;
+            id : auto = a <= b;
+            id : auto = m + b;
+            id : float = x * b / c % d;
+            id : auto = - x;
+        

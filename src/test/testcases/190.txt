@@ -1,0 +1,10 @@
+
+            foo : function void ()
+            {
+                do 
+                {
+                    break; 
+                }
+                while(i < 10 && j > 0);
+            }
+        

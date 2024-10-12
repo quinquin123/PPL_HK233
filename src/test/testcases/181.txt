@@ -1,0 +1,7 @@
+
+            fo4 : function auto ()
+            {
+                if (x < y) x = y;
+                else x = 0;
+            }
+        

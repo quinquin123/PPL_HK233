@@ -1,0 +1,6 @@
+
+            bar : function void (){
+                return bar({2} :: {3}, 1 + a[3, 7]);
+                return {1, 2, 3} * foo(4, 5);
+            }
+        

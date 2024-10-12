@@ -1,0 +1,3 @@
+
+            fo7 : function while (inherit out id : auto) {}
+        

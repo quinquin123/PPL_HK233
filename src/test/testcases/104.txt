@@ -1,0 +1,5 @@
+
+            a, x, m : float; 
+            a, :float;
+            a : integer
+        

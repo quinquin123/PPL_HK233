@@ -1,0 +1,6 @@
+
+            foo : function void (){
+                return {12 :: 5, 7 * 8 + a[1, 5], {1,4,8}};
+                return foo({1} + {9});
+            }
+        

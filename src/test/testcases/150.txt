@@ -1,0 +1,7 @@
+
+            id : auto = a || b == c ;
+            id : auto = x + m - z;
+            id : auto = x * b / c % e;
+            id : auto = - x;
+            id : auto = ! x;
+        

@@ -1,0 +1,3 @@
+
+            fo7 : function auto (a : string = "hello"){}
+        

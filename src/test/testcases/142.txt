@@ -1,0 +1,3 @@
+
+            foo10 : function auto (inherit out id : auto) inherit out foo9 {}
+        
